@@ -1,0 +1,21 @@
+DFGenTool - The Data Flow Graph Generator Tool for Coarse Grain Reconfigurable Architectures (CGRAs).
+=========================
+
+Authors
+-------
+
+DFGenTool is developed at the Indraprashtha Institute of Information Technology Delhi (IIIT-D) by 
+
+- Apala Guha
+  Email: apala@iiitd.ac.in
+  Home: https://sites.google.com/site/apalaguha/  
+
+The CGRA related optimizations: PHI node modification and GEP expansion are developed by
+
+- Manideepa Mukherjee
+  Email: manideepam@iiitd.ac.in
+  
+
+- Alexander Fell
+  Email: alex@iiitd.ac.in
+  Home:	 http://faculty.iiitd.ac.in/~alex/
